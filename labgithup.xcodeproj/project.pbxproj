@@ -14,6 +14,7 @@
 		56AD72DD290AC1AB005443F5 /* labgithupTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56AD72DC290AC1AB005443F5 /* labgithupTests.swift */; };
 		56AD72E7290AC1AB005443F5 /* labgithupUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56AD72E6290AC1AB005443F5 /* labgithupUITests.swift */; };
 		56AD72E9290AC1AB005443F5 /* labgithupUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56AD72E8290AC1AB005443F5 /* labgithupUITestsLaunchTests.swift */; };
+		80FD5D77290AC605005C1536 /* malakhulimi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80FD5D76290AC605005C1536 /* malakhulimi.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		56AD72E2290AC1AB005443F5 /* labgithupUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = labgithupUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		56AD72E6290AC1AB005443F5 /* labgithupUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = labgithupUITests.swift; sourceTree = "<group>"; };
 		56AD72E8290AC1AB005443F5 /* labgithupUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = labgithupUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		80FD5D76290AC605005C1536 /* malakhulimi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = malakhulimi.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				56AD72CD290AC1AB005443F5 /* ContentView.swift */,
 				56AD72CF290AC1AB005443F5 /* Assets.xcassets */,
 				56AD72D1290AC1AB005443F5 /* Preview Content */,
+				80FD5D76290AC605005C1536 /* malakhulimi.swift */,
 			);
 			path = labgithup;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				56AD72CE290AC1AB005443F5 /* ContentView.swift in Sources */,
 				56AD72CC290AC1AB005443F5 /* labgithupApp.swift in Sources */,
+				80FD5D77290AC605005C1536 /* malakhulimi.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
